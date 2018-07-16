@@ -10,3 +10,6 @@ https://github.com/airbnb/javascript#arrow-functions
 
 Examples:
 http://supersimpleslider.com/
+
+https://github.com/ruyadorno/simple-slider
+
