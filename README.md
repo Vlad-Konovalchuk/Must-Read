@@ -5,3 +5,8 @@ https://github.com/AlbertoMontalesi/free-programming-books/blob/master/free-prog
 https://github.com/AlbertoMontalesi?tab=repositories
 
 https://github.com/airbnb/javascript#arrow-functions
+
+
+
+Examples:
+http://supersimpleslider.com/
