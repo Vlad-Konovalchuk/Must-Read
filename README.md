@@ -19,7 +19,7 @@ https://github.com/airbnb/javascript#arrow-functions
 *https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
 *https://www.youtube.com/watch?v=Ngh3KZcGNaU
 *https://auth0.com/blog/vuejs2-authentication-tutorial/
-
+https://dev.to/ederchrono/making-an-animated-slider---wotw-mkj
 
 
 Examples:
