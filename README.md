@@ -31,6 +31,9 @@ Examples:
 * CSS cool effetcs https://habr.com/post/420307/
 * About color hsl()  https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a
 * CSS SCROLL SNAPING https://css-tricks.com/practical-css-scroll-snapping/
+* JS ICE FACTORY https://habr.com/company/ruvds/blog/351800/
+* JS ENGINE https://mathiasbynens.be/notes/prototypes
+* https://www.sitepen.com/blog/2018/08/14/cross-tab-synchronization-with-the-web-locks-api/
 
 ### ALGORITMS
 * https://proglib.io/p/competitive-algorithms/
@@ -39,3 +42,6 @@ Examples:
 * https://jshilpa.com/the-ultimate-beginners-guide-to-analysis-of-algorithm/
 ### DATA STRUCTERES 
 * https://proglib.io/p/8-data-structures/
+## VUE
+* Vue Patterns https://translation-gang.github.io/vue-patterns/ru/patterns/#%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2n%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2
+* VUEX https://habr.com/company/ruvds/blog/420357/
