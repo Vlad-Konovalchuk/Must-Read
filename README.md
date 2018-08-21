@@ -38,3 +38,5 @@ Examples:
 * https://proglib.io/p/analysis-of-algorithm/
 * https://jshilpa.com/the-ultimate-guide-to-big-o-notation-learning-through-examples/
 * https://jshilpa.com/the-ultimate-beginners-guide-to-analysis-of-algorithm/
+### DATA STRUCTERES 
+* https://proglib.io/p/8-data-structures/
