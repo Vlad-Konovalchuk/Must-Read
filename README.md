@@ -1,7 +1,6 @@
-# Must-Read
+# JS ES6
 
 * https://github.com/AlbertoMontalesi/free-programming-books/blob/master/free-programming-books-ru.md
-* https://github.com/AlbertoMontalesi?tab=repositories
 * https://github.com/airbnb/javascript#arrow-functions
 
 
